@@ -4,9 +4,10 @@ const dark = {
   secondary: "#393028",
   background: "#242424",
   foreground: "#ffffffff",
-  accent: "#fadbbcff",
-  muted: "#504d4bff",
+  muted: "#fadbbc4f",
   destructive: "#C62828",
+  black: "#000000",
+  white: "#ffffff",
 };
 
 const light = {
@@ -14,9 +15,10 @@ const light = {
   secondary: "#ffe0c2",
   background: "#ffffffff",
   foreground: "#242424",
-  accent: "#ada194ff",
-  muted: "#a19589ff",
+  muted: "#a1958964",
   destructive: "#C62828",
+  black: "#000000",
+  white: "#ffffff",
 };
 
 export const THEMES = {
