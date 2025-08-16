@@ -1,4 +1,4 @@
-// themes.ts
+// themes/colors.ts
 const dark = {
   primary: "#fafafa",
   secondary: "#27272a",
@@ -19,6 +19,24 @@ const light = {
   destructive: "#ef4444",
   black: "#000000",
   white: "#ffffff",
+};
+
+export const PADDINGS = {
+  xs: 4,
+  sm: 8,
+  md: 16,
+  lg: 24,
+  xl: 32,
+  full: "100%",
+};
+
+export const RADIUS = {
+  xs: 2,
+  sm: 4,
+  md: 8,
+  lg: 12,
+  xl: 16,
+  full: 9999,
 };
 
 export const THEMES = {
